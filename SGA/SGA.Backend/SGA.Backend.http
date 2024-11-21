@@ -1,0 +1,6 @@
+@SGA.Backend_HostAddress = http://localhost:5086
+
+GET {{SGA.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
